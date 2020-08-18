@@ -9,5 +9,5 @@
 
 ### Connect with me 😉
 
-[<img align="left" alt="Aid_3n | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" />]
+[<img align="left" alt="@AID_3N | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" />]
 
