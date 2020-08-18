@@ -10,3 +10,5 @@
 ### Connect With Me:
 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" width="25" />](https://tx.me/AID_3N)
+
+[<img src ="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" width="25" />](jasontg889@gmail.com)
