@@ -9,5 +9,5 @@
 
 ### Connect with me 😉
 
-[<img align="left" alt="Aid_3n | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Telegram.svg" />][Telegram]
+[<img align="left" alt="Aid_3n | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" />][Telegram]
 
