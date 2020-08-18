@@ -1,6 +1,6 @@
 ### Hoi Peru Github User! ⚡⚡
 
-![AIDEN's github stats](https://github-readme-stats.vercel.app/api?username=Aid-3n&show_icons=true&title_color=000000&icon_color=00FFFF&text_color=800000&bg_color=808000)
+![AIDEN's github stats](https://github-readme-stats.vercel.app/api?username=Aid-3n&show_icons=true&title_color=000000&icon_color=00FFFF&text_color=800000&bg_color=FFFF00)
 
 
 ### SPOTIFY PLAYING 🎵
