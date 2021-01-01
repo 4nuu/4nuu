@@ -12,10 +12,10 @@
 
 ### CURRENTLY LISTENING TO 
 
-<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="WIZ KHALIFA Spotify Playing" width="350" />
+<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="WIZ KHALIFA Spotify Playing" width="400" />
 
 ### Connect With Me:
 
 [<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" width="40px" />](https://tx.me/AID_3N)
-[<img align="left" src ="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" width="40px" />](mailto:jasontg889@gmail.com)
-[<img align="left" src ="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" width="40px" />](https://github.com/Aid-3n)
+[<img align="left" src ="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" width="40px" />](mailto:dilshadanu8@gmail.com)
+[<img align="left" src ="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/instagram.svg" width="40px" />](https://www.instagram.com/anu_.dx/)
