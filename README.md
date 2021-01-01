@@ -2,7 +2,7 @@
 
 <b> My Name Iz Aiden Pearce a.k.a AIDEN </b>
 
-- I Love To Spend My Time In <img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" width="20px" />   <img src ="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" width="20px" />   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/heroku.svg" width="20px" />  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/postgresql.svg" width="20px" />
+- I Love To Spend My Time In <img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" width="30px" />   <img src ="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" width="30px" />   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/heroku.svg" width="30px" />  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/xbox.svg" width="30px" />
 
 
 ![AIDEN's github stats](https://github-readme-stats.vercel.app/api?username=Aid-3n&show_icons=true&title_color=C0C0C0&icon_color=00FFFF&text_color=800000&bg_color=000)
