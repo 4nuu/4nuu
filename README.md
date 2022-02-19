@@ -10,6 +10,13 @@
 ![AIDEN's github stats](https://github-readme-stats.vercel.app/api?username=Aid-3n&show_icons=true&title_color=C0C0C0&icon_color=00FFFF&text_color=800000&bg_color=000)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aid-3n&layout=compact&theme=dark)
+</div>
+
+<p align="center">
+  <a href="https://github.com/MoneyEarnVip">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoneyEarnVip#version3"/>
+  </a>
+</p>
 
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAid-3n)
