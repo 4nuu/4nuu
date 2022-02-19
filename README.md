@@ -17,9 +17,6 @@
   </a>
 </p>
   </div>
-### CURRENTLY LISTENING TO 
-
-<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="WIZ KHALIFA Spotify Playing" width="700" />
 
 ### REACH ME HERE
 
