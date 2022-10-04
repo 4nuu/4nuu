@@ -23,6 +23,6 @@
 [<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" width="40px" />](https://tx.me/AID_3N)
 [<img align="left" src ="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" width="40px" />](mailto:dilshadanu8@gmail.com)
 [<img align="left" src ="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/instagram.svg" width="40px" />](https://www.instagram.com/anu_.dx/)
+[<img align="left" src ="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/instagram.svg" width="40px" />](https://www5.cbox.ws/box/?boxid=938056&boxtag=FpScq0)
 
-<iframe src="https://www5.cbox.ws/box/?boxid=938056&boxtag=FpScq0" width="100%" height="450" allowtransparency="yes" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>	
-	
+
