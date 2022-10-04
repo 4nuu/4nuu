@@ -23,3 +23,11 @@
 [<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" width="40px" />](https://tx.me/AID_3N)
 [<img align="left" src ="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" width="40px" />](mailto:dilshadanu8@gmail.com)
 [<img align="left" src ="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/instagram.svg" width="40px" />](https://www.instagram.com/anu_.dx/)
+
+<script>
+window['CboxReady'] = function (Cbox) {
+	Cbox('button', '5-938056-FpScq0');
+}
+</script>
+<script src="https://static.cbox.ws/embed/2.js" async></script>
+	
