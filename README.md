@@ -13,7 +13,7 @@
 [<img align="left" src ="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/instagram.svg" width="40px" />](https://www.instagram.com/anu_.dx/)
 
 
-<center>
+<div align=center>
   ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAid-3n)
 
 
