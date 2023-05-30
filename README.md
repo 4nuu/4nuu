@@ -4,17 +4,7 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAid-3n)
 - I Love To Spend My Time In <img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" width="30px" />   <img src ="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" width="30px" />   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/heroku.svg" width="30px" />  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/xbox.svg" width="30px" />
-<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aid-3n&layout=compact&theme=dark)
-</p>
-
-<p align="center">
-  <a href="https://github.com/AID-3N">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aid-3n#version3"/>
-  </a>
-</p>
-  </div>
 
 ### REACH ME HERE
 
