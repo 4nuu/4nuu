@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=AID-3N&icon=7&color=8)](https://visitcount.itsvg.in)
 # 💫 About Me:
-The name is ANU DILSHAD <br>
-I am currently upskilling myself through MERN Stack.<br>
+My name is ANU DILSHAD <br>
+I am currently upskilling myself with MERN Stack.<br>
 
 
 # 📊 GitHub Stats:
