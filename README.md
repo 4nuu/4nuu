@@ -3,15 +3,6 @@ My name is ANU DILSHAD <br>
 I am currently upskilling myself with MERN Stack.<br>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AID-3N&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AID-3N&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anu_.dx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Anu-Dilshad)
-
 # 💻 Tech Stack:
 
 ### Frontend 
@@ -32,6 +23,15 @@ I am currently upskilling myself with MERN Stack.<br>
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AID-3N&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false) <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AID-3N&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anu_.dx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Anu-Dilshad)
    
 
 ## 🏆 GitHub Trophies
