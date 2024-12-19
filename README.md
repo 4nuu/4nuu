@@ -7,7 +7,7 @@ I am currently upskilling myself with MERN Stack.<br>
 
 ### Frontend 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/css-%23E34F26.svg?style=plastic&logo=css&logoColor=white)
+  ![CSS](https://img.shields.io/badge/css3-%23E34F26.svg?style=plastic&logo=css3&logoColor=blue)
   
 ### Backend
   ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
