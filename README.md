@@ -5,8 +5,8 @@
   # 📊 Github stats:
 
   <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aid-3n&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aid-3n&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=4nuu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4nuu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 
@@ -49,7 +49,7 @@
 <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />  </a>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AID-3N&theme=radical&no-frame=false&no-bg=true&margin-w=5)
+![](https://github-profile-trophy.vercel.app/?username=4nuu&theme=radical&no-frame=false&no-bg=true&margin-w=5)
 
-👀👀 [![](https://visitcount.itsvg.in/api?id=AID-3N&icon=7&color=8)](https://visitcount.itsvg.in)
+👀👀 [![](https://visitcount.itsvg.in/api?id=4nuu&icon=7&color=8)](https://visitcount.itsvg.in)
 ---
