@@ -10,7 +10,7 @@
    
 </div>
 
-# 💻 Tech Stack:
+# 💻💡🛠️ Tech Stack:
 <div style="display:flex;">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" style="display:inline-block;" alt="html5 logo"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="display:inline-block;" height="50" alt="css3 logo"  />
@@ -23,39 +23,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" height="50" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" height="50" />
  </div>
-  
  
-
-### Frontend 💡 :
- <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" style="display:inline-block;" alt="html5 logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="display:inline-block;" height="50" alt="css3 logo"  />
- 
-  </p>
-  
-### Backend 🛠️ :
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="display:inline-block;" height="50" alt="python logo"  />
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="display:inline-block;" height="50" alt="javascript logo"  />
-  
-  </p>
-  
-### Frameworks 🧬 :
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" height="50" />      
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="50"  />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="50" />
-</p>
-
-### Databases 💾 :
-  <p>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" height="50" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" height="50" />
-          
-  </p>
-
 ## 🌐 Socials:
 <a href="https://tx.me/AID_3N">  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=24A1DE&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> 
 <a href="https://instagram.com/anu_.dx"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> </a>
